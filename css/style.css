@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+  
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+   
+    width: 50%;
+    background-color: aqua;
+}
+img{
+    width: 100%;
+    height: auto;
+    display: block;
+}
