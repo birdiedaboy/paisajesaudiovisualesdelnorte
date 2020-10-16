@@ -1,0 +1,34 @@
+{
+  "name": "glitch-img",
+  "version": "0.1.0",
+  "description": "Glitch your <img>",
+  "license": "MIT",
+  "main": "dist/glitch-img.html",
+  "keywords": [
+    "polymer",
+    "web-components",
+    "web-component",
+    "glitch"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "homepage": "http://www.kunjinkao.org/glitch-img/",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.4",
+    "webcomponentsjs": "~0.5.5"
+  },
+  "devDependencies": {},
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.0",
+    "commit": "7b003a1354ea2eff6123e6cc3f92701f4d71383f"
+  },
+  "_source": "https://github.com/kunjinkao/glitch-img.git",
+  "_target": "^0.1.0",
+  "_originalSource": "glitch-img",
+  "_direct": true
+}
